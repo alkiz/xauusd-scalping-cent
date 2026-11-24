@@ -1,0 +1,6 @@
+*.ex5
+*.ex4
+Tester/
+*.log
+.DS_Store
+Thumbs.db
